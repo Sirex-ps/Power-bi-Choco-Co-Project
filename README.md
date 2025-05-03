@@ -1,6 +1,6 @@
 Power BI Dashboard Development for a Chocolate Company
 
-Led the design and development of a fully interactive Power BI dashboard tailored for a chocolate manufacturing and distribution company. The dashboard consolidated and visualized key business metrics including Total Sales, Cost, Profit, Shipments, and Number of Boxes Sold, offering both high-level summaries and granular, drill-down insights.
+designed and development of a fully interactive Power BI dashboard tailored for a chocolate manufacturing and distribution company. The dashboard consolidated and visualized key business metrics including Total Sales, Cost, Profit, Shipments, and Number of Boxes Sold, offering both high-level summaries and granular, drill-down insights.
 
 Key features included:
 	•	Dynamic Filtering Capabilities: Implemented slicers and filters to allow users to analyze data by geographical regions (e.g., countries, states) and product categories (e.g., chocolate type, packaging format). This empowered business users to quickly identify trends, opportunities, and underperforming areas.
